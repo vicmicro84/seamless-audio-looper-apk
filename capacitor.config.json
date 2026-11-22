@@ -1,0 +1,8 @@
+{
+  "appId": "com.vicmicro84.audiolooper",
+  "appName": "Seamless Audio Looper",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "seamless-audio-looper",
+  "version": "1.0.0",
+  "description": "Seamless Audio Looper & 1-Hour MP3 Exporter",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static HTML - no build needed'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  }
+}
